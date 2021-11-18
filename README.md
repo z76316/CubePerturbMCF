@@ -1,4 +1,8 @@
-# A Multi-step-ahead Markov Conditional Forward Model with Cube Perturbations for Extreme Weather Forecasting
+# CubePerturbMCF
+**Introduction**
+
+This is the implementation of the model proposed in a proceeding paper of AAAI 2021, [A Multi-step-ahead Markov Conditional Forward Model with Cube Perturbations for Extreme Weather Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/16856).
+
 
 Requirement
 ---
